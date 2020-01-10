@@ -4,7 +4,7 @@
 Create by Song,xiaotao @ shanghai
 
 
-email:songxiaotao80@gmail.com
+email:764952224@qq.com
 
 
 professional field:JavaScript,html,css,node.js,angular.js,react.js,vue.js,ReactNative,Java,Python,go...
